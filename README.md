@@ -25,5 +25,4 @@ Files | Description
 ## Credits
 
 Written by
-- [Wendy Munyasi](https://github.com/wendymunyasi)
-- [Martin Mulwa](https://github.com/martinmulwa)
+- [John Ngugi](https://github.com/JohnNgugi-1)
